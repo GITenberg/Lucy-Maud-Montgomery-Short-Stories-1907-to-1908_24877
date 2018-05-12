@@ -1,0 +1,40 @@
+_repo: Lucy-Maud-Montgomery-Short-Stories-1907-to-1908_24877
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Montgomery, L. M. (Lucy Maud)
+    aliases:
+    - Montgomery, Lucy Maud
+    - MacDonald, Lucy Maud Montgomery
+    birthdate: 1874
+    deathdate: 1942
+    gutenberg_agent_id: '36'
+    url: http://www.gutenberg.org/2009/agents/36
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Maud_Montgomery
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2008-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, Canadian'
+tableOfContents: A millionaire's proposal -- A substitute journalist -- Anna's love
+  letters -- Aunt Caroline's silk dress -- Aunt Susanna's Thanksgiving dinner -- By
+  grace of Julius Caesar -- By the rule of contrary -- Fair exchange and no robbery
+  -- Four winds -- Marcella's reward -- Margaret's patient -- Matthew insists on puffed
+  sleeves -- Missy's room -- Ted's afternoon off -- The girl who drove the cows --
+  The doctor's sweetheart -- The end of the Young family feud -- The genesis of the
+  Doughnut Club -- The growing up of Cornelia -- The Old Fellow's letter -- The parting
+  of the ways -- The promissory note -- The revolt of Mary Isabel -- The twins and
+  a wedding.
+title: Lucy Maud Montgomery Short Stories, 1907 to 1908
+url: http://www.gutenberg.org/ebooks/24877
